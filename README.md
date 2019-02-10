@@ -24,12 +24,12 @@ mutation {
   }
   
   updateUser(id: 2, name: "Hisoka") {
-  	id
+    id
     name
   }
   
   deleteUser(id: 3) {
-  	id
+    id
     name
   }
 }
